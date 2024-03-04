@@ -8,9 +8,27 @@ namespace WebApi.Controllers
     public class OperationsController : ControllerBase
     {
         [HttpGet]
-        public decimal AddDecimal(decimal a, decimal b)
+        public decimal Numero(decimal a, decimal b)
         {
             return a + b;
+        }
+
+        [HttpPost]
+        public decimal Suma(decimal a, decimal b)
+        {
+            return a + b;
+        }
+
+        [HttpPut]
+        public decimal Resta(decimal a, decimal b)
+        {
+            return a - b;
+        }
+
+        [HttpDelete]
+        public decimal Multiplicacion(decimal a, decimal b)
+        {
+            return a * b;
         }
     }
 }
