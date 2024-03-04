@@ -30,3 +30,4 @@ C:\Users\Acer\source\repos\WebApi\WebApi\obj\Debug\net8.0\refint\WebApi.dll
 C:\Users\Acer\source\repos\WebApi\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\Users\Acer\source\repos\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\Users\Acer\source\repos\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Acer\source\repos\WebApi\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
