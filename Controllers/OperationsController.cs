@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Globalization;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace WebApi.Controllers
 {
@@ -14,9 +16,9 @@ namespace WebApi.Controllers
         }
 
         [HttpPost]
-        public decimal Suma(decimal a, decimal b)
+        public decimal Suma(Numbers numbers)
         {
-            return a + b;
+            return numbers.B + numbers.A;
         }
 
         [HttpPut]
@@ -30,5 +32,12 @@ namespace WebApi.Controllers
         {
             return a * b;
         }
+
+       
+    }
+    public class Numbers
+    {
+        public decimal A { get; set; }
+        public decimal B { get; set; }
     }
 }
