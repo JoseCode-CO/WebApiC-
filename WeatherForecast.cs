@@ -1,4 +1,4 @@
-namespace WebApi
+namespace WebApiCrud
 {
     public class WeatherForecast
     {

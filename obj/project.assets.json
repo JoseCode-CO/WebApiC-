@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\WebApi\\WebApi\\WebApi.csproj",
-      "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Acer\\source\\repos\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\WebApiCrud\\WebApiCrud\\WebApiCrud.csproj",
+      "projectName": "WebApiCrud",
+      "projectPath": "C:\\Users\\Acer\\source\\repos\\WebApiCrud\\WebApiCrud\\WebApiCrud.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\source\\repos\\WebApi\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\source\\repos\\WebApiCrud\\WebApiCrud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
