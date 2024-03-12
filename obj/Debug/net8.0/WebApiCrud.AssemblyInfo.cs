@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+290317bf86735e07c45e18718280f64f22acc759")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+652132a8cf280d5b51c1e2b4e6f807ef3f840272")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
